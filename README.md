@@ -21,8 +21,9 @@
 
 ## Acknowledgements
 
-* created on 20 July 2024
+* created on 13 August 2024
+* completed on 25 August 2024
 * version 1.0
-* last updated on 20 July 2024
+* last updated on 26 August 2024
 
 ### Thanks! Have a look at live reload of this site at --
